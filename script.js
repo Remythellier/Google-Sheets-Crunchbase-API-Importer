@@ -1,4 +1,11 @@
-// Google-Sheets-Crunchbase-API-Importer //
+// Google Sheets Tool Script Editor
+
+// Crunchbase API importer for Google Sheets
+// __ Description: Google Sheet Script to gather Company Information from the public Crunchbase API
+// __ Status: Prototype
+// __ Author: Remy Thellier
+// __ Email: remythellier@gmail.com
+// __ Licence: MIT
 
 var USER_KEY = XXXXXXXXXXXXXXX; // needs to be changed with your API credentials
 var ss = SpreadsheetApp.getActiveSpreadsheet();
